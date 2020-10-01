@@ -1,0 +1,24 @@
+.tabs {
+  background: #e0dfdf96;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.videos {
+  border-bottom: 2px solid #e0dfdf96;
+}
+
+.about {
+  border-bottom: 2px solid #e0dfdf96;
+}
+
+.des-text {
+  padding-left: 20%;
+  border-bottom: 2px solid #e0dfdf96;
+}
+
+.comment {
+  border-bottom: 3px solid #e0dfdf96 !important;
+}
